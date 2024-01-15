@@ -1,5 +1,5 @@
 {
-  "name": "snapadmin/dev-tools",
+  "name": "snap-admin/dev-tools",
   "license": "MIT",
   "require": {
     "doctrine/sql-formatter": "^1.1",
